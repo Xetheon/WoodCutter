@@ -1,0 +1,9 @@
+{
+    "woodcutter_cut": {
+      "subtitle": "subtitles.woodcutter.woodcutter_cut",
+      "sounds": [
+        "woodcutter:woodcut1",
+        "woodcutter:woodcut2"
+      ]
+    }
+  }
