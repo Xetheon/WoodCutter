@@ -7,9 +7,9 @@
 		"2": "woodcutter:block/woodcutter_top",
 		"3": "woodcutter:block/woodcutter_saw",
 		"4": "woodcutter:block/mirrored_woodcutter_saw",
-		"5": "block/stonecutter_bottom",
+		"5": "woodcutter:block/stonecutter_bottom",
 		"6": "woodcutter:block/woodcutter_side2",
-        "particle": "block/stonecutter_bottom"
+		"particle": "woodcutter:block/stonecutter_bottom"
 	},
 	"elements": [
 		{
@@ -168,7 +168,7 @@
 			"to": [11, 14, 8.5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [13, 21, 15.5]},
 			"faces": {
-				"east": {"uv": [10, 9, 11, 10], "texture": "#3"},
+				"east": {"uv": [10, 2, 11, 3], "texture": "#3"},
 				"west": {"uv": [5, 2, 6, 3], "texture": "#3"},
 				"up": {"uv": [5, 2, 11, 3], "texture": "#3"},
 				"down": {"uv": [0, 0, 6, 1], "texture": "#missing"}
@@ -198,6 +198,5 @@
 				"down": {"uv": [0, 0, 14, 1], "texture": "#missing"}
 			}
 		}
-	],
-	"display": {}
+	]
 }

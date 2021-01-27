@@ -1,0 +1,13 @@
+{
+	"parent": "woodcutter:block/woodcutter",
+	"textures": {
+		"0": "block/stonecutter_bottom_new",
+		"1": "block/stonecutter_side1",
+		"2": "block/stonecutter_top",
+		"3": "block/stonecutter_saw",
+		"4": "block/mirrored_stonecutter_saw",
+		"5": "block/stonecutter_bottom",
+		"6": "block/stonecutter_side2",
+        "particle": "block/stonecutter_bottom_new"
+	}
+}
