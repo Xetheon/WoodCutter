@@ -6,13 +6,13 @@
   "accessWidener" : "woodcutter.accesswidener",
 
   "name": "Woodcutter",
-  "description": "Woodcutter cuts wood",
+  "description": "Woodcutter cuts wood (WildCraft ver)",
   "authors": [
     "Tfarcenim"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/woodcutter",
+    "sources": "https://github.com/Xetheon/WoodCutter"
   },
 
   "license": "CC0-1.0",
