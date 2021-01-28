@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:rainbow_eucalyptus_logs"
+  },
+  "result": "terrestria:rainbow_eucalyptus_planks",
+  "count": 6
+}

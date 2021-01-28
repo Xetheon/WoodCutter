@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betterend:lucagrove_planks"
+  },
+  "result": "betterend:lucagrove_button",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:yucca_palm_logs"
+  },
+  "result": "terrestria:yucca_palm_planks",
+  "count": 6
+}

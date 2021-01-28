@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:cika_wood"
+  },
+  "result": "byg:stripped_cika_wood",
+  "count": 1
+}

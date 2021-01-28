@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:stripped_wart_log"
+  },
+  "result": "betternether:stripped_wart_wood",
+  "count": 1
+}

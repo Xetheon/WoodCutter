@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betterend:tananea_wood"
+  },
+  "result": "betterend:stripped_tananea_wood",
+  "count": 1
+}

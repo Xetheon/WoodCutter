@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "byg:stripped_embur_log"
+  },
+  "result": "byg:stripped_embur_wood",
+  "count": 1
+}

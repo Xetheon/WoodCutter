@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:willow_logs"
+  },
+  "result": "terrestria:willow_planks",
+  "count": 6
+}

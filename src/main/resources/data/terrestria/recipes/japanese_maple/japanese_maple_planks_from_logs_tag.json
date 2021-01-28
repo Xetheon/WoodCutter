@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:japanese_maple_logs"
+  },
+  "result": "terrestria:japanese_maple_planks",
+  "count": 6
+}

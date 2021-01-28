@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "terrestria:cypress_planks"
+  },
+  "result": "terrestria:cypress_door",
+  "count": 1
+}

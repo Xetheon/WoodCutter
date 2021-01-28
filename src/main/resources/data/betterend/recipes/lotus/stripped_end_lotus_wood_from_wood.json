@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betterend:end_lotus_wood"
+  },
+  "result": "betterend:stripped_end_lotus_wood",
+  "count": 1
+}

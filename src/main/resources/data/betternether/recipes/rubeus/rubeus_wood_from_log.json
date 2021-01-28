@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:rubeus_log"
+  },
+  "result": "betternether:rubeus_wood",
+  "count": 1
+}

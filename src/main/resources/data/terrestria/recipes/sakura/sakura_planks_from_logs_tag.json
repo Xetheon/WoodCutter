@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:sakura_logs"
+  },
+  "result": "terrestria:sakura_planks",
+  "count": 6
+}

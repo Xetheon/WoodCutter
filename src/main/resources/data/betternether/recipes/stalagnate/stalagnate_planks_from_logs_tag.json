@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betternether:stalagnate_logs"
+  },
+  "result": "betternether:stalagnate_planks",
+  "count": 6
+}

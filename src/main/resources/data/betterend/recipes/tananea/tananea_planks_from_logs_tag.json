@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betterend:tananea_logs"
+  },
+  "result": "betterend:tananea_planks",
+  "count": 6
+}

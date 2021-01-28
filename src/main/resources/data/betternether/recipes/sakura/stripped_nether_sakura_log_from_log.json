@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:nether_sakura_log"
+  },
+  "result": "betternether:stripped_nether_sakura_log",
+  "count": 1
+}

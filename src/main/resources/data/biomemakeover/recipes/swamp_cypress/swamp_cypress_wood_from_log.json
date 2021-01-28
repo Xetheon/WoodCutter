@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "biomemakeover:swamp_cypress_log"
+  },
+  "result": "biomemakeover:swamp_cypress_wood",
+  "count": 1
+}

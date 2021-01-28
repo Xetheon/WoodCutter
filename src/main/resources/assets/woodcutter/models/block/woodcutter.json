@@ -7,9 +7,9 @@
 		"2": "woodcutter:block/woodcutter_top",
 		"3": "woodcutter:block/woodcutter_saw",
 		"4": "woodcutter:block/mirrored_woodcutter_saw",
-		"5": "woodcutter:block/stonecutter_bottom",
+		"5": "block/stonecutter_bottom",
 		"6": "woodcutter:block/woodcutter_side2",
-		"particle": "woodcutter:block/stonecutter_bottom"
+		"particle": "woodcutter:block/woodcutter_bottom"
 	},
 	"elements": [
 		{

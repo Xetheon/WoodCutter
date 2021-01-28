@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "terrestria:japanese_maple_planks"
+  },
+  "result": "terrestria:japanese_maple_fence",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "biomemakeover:willow_logs"
+  },
+  "result": "biomemakeover:willow_planks",
+  "count": 6
+}

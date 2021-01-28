@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betternether:wart_logs"
+  },
+  "result": "betternether:wart_planks",
+  "count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:reeds_planks"
+  },
+  "result": "betternether:reeds_button",
+  "count": 1
+}

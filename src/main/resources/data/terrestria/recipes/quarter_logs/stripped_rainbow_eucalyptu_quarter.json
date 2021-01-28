@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "terrestria:rainbow_eucalytpus_quarter_log"
+  },
+  "result": "terrestria:stripped_rainbow_eucalytpus_quarter_log",
+  "count": 1
+}

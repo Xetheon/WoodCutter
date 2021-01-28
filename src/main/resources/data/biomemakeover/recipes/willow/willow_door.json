@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "biomemakeover:willow_planks"
+  },
+  "result": "biomemakeover:willow_door",
+  "count": 1
+}

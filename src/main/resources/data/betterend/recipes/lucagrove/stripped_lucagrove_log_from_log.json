@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betterend:lucagrove_log"
+  },
+  "result": "betterend:stripped_lucagrove_log",
+  "count": 1
+}

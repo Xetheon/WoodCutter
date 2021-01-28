@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:nether_sakura_planks"
+  },
+  "result": "betternether:nether_sakura_door",
+  "count": 1
+}

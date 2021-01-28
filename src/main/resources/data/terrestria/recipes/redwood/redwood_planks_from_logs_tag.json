@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:redwood_logs"
+  },
+  "result": "terrestria:redwood_planks",
+  "count": 6
+}

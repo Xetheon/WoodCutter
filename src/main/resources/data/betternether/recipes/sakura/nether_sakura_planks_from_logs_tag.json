@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betternether:nether_sakura_logs"
+  },
+  "result": "betternether:nether_sakura_planks",
+  "count": 6
+}

@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "terrestria:redwood_planks"
+  },
+  "result": "terrestria:redwood_button",
+  "count": 1
+}

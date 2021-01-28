@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betternether:anchor_tree_logs"
+  },
+  "result": "betternether:anchor_tree_planks",
+  "count": 6
+}

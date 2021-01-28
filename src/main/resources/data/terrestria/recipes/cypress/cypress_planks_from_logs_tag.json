@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:cypress_logs"
+  },
+  "result": "terrestria:cypress_planks",
+  "count": 6
+}

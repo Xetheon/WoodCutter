@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:stripped_mushroom_log"
+  },
+  "result": "betternether:stripped_mushroom_wood",
+  "count": 1
+}

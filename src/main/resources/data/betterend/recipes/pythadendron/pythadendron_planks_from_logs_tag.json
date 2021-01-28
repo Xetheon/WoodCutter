@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betterend:pythadendron_logs"
+  },
+  "result": "betterend:pythadendron_planks",
+  "count": 6
+}

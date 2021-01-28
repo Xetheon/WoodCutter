@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:stripped_willow_log"
+  },
+  "result": "betternether:stripped_willow_wood",
+  "count": 1
+}

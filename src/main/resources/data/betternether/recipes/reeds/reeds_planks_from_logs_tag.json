@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betternether:reeds_logs"
+  },
+  "result": "betternether:reeds_planks",
+  "count": 6
+}

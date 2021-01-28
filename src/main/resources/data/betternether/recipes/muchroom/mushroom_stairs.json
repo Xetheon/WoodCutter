@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:mushroom_planks"
+  },
+  "result": "betternether:mushroom_stairs",
+  "count": 1
+}

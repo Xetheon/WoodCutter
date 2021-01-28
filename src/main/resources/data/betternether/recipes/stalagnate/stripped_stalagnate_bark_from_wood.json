@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:stalagnate_bark"
+  },
+  "result": "betternether:stripped_stalagnate_bark",
+  "count": 1
+}

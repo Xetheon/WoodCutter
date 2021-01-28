@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "terrestria:redwood_wood"
+  },
+  "result": "terrestria:stripped_redwood_wood",
+  "count": 1
+}

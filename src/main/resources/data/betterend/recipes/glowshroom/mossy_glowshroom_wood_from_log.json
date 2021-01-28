@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betterend:mossy_glowshroom_log"
+  },
+  "result": "betterend:mossy_glowshroom_wood",
+  "count": 1
+}

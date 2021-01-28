@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betternether:anchor_tree_wood"
+  },
+  "result": "betternether:stripped_anchor_tree_wood",
+  "count": 1
+}

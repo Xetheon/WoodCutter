@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betterend:stripped_pythadendron_log"
+  },
+  "result": "betterend:stripped_pythadendron_wood",
+  "count": 1
+}

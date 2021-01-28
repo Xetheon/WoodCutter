@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "terrestria:rainbow_eucalyptus_planks"
+  },
+  "result": "terrestria:rainbow_eucalyptus_slab",
+  "count": 2
+}

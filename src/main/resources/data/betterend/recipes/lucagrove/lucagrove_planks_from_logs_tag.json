@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betterend:lucagrove_logs"
+  },
+  "result": "betterend:lucagrove_planks",
+  "count": 6
+}

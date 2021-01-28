@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betterend:dragon_tree_logs"
+  },
+  "result": "betterend:dragon_tree_planks",
+  "count": 6
+}

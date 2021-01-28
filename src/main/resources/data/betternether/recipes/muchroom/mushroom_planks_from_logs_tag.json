@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "betternether:mushroom_logs"
+  },
+  "result": "betternether:mushroom_planks",
+  "count": 6
+}

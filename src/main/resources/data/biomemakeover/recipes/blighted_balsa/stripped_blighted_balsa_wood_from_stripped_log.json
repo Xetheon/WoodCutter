@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "biomemakeover:stripped_blighted_balsa_log"
+  },
+  "result": "biomemakeover:stripped_blighted_balsa_wood",
+  "count": 1
+}

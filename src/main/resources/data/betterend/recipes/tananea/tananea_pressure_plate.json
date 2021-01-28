@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "item": "betterend:tananea_planks"
+  },
+  "result": "betterend:tananea_plate",
+  "count": 1
+}

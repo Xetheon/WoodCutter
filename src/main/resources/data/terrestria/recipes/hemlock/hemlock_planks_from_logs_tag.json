@@ -1,0 +1,8 @@
+{
+  "type": "woodcutter:woodcutting",
+  "ingredient": {
+    "tag": "terrestria:hemlock_logs"
+  },
+  "result": "terrestria:hemlock_planks",
+  "count": 6
+}
