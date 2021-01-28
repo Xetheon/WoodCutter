@@ -1,5 +1,7 @@
 # Woodcutter/WildCraft
 
-All I did to this fork is add a couple unique, :concern:ing crafting sounds, change some recipes and adjust the texture a bit. Used in the WildCraft modpack.
+This fork adjusts various aspects of the source to function better with the WildCraft modpack. 
+
+Everything I've changed includes: Redone models for both woodcutter & stonecutter, recipes for modded lumber & other adjustments, a low-effort icon and some new :concern:ing crafting sounds.
 
 
